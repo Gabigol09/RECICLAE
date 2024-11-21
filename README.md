@@ -21,13 +21,13 @@ Além disso, o site oferece um design intuitivo, promovendo uma experiência int
 # ODS Atendidas
 O projeto está alinhado com os seguintes Objetivos de Desenvolvimento Sustentável (ODS):
 
-1. # *ODS 12 - Consumo e Produção Responsáveis**:
+1. # ODS 12 - Consumo e Produção Responsáveis**:
    - Promove a conscientização sobre práticas de reciclagem que reduzem o desperdício e incentivam o reaproveitamento de recursos.
 
-2. # *ODS 13 - Ação contra a Mudança Global do Clima**:
+2. # ODS 13 - Ação contra a Mudança Global do Clima**:
    - Fomenta a redução de resíduos, diminuindo o impacto ambiental e contribuindo para a mitigação das mudanças climáticas.
 
-3. # *ODS 7 - Energia Acessível e Limpa:
+3. # ODS 7 - Energia Acessível e Limpa:
    - Apresenta a **reciclagem energética** como uma alternativa sustentável para a geração de energia limpa.
 
 ---
