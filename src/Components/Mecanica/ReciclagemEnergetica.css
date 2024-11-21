@@ -1,0 +1,42 @@
+.reciclagem-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .reciclagem-header {
+    text-align: center;
+    padding: 20px;
+    background-color: #212ea0;
+    color: #ffffff;
+    border-radius: 10px 10px 0 0;
+  }
+  
+  .reciclagem-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .reciclagem-subtitle {
+    font-size: 1.2rem;
+    margin-top: 0;
+  }
+  
+  .reciclagem-content {
+    padding: 20px;
+    color: #333333;
+    line-height: 1.8;
+  }
+  
+  .reciclagem-section {
+    margin-bottom: 30px;
+  }
+  
+  .reciclagem-section h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+    color: #
+  
