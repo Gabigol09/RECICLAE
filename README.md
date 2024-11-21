@@ -1,6 +1,6 @@
 
 
-## *RECICLAE - Projeto Acadêmico de Extensão
+## RECICLAE - Projeto Acadêmico de Extensão
 O **RECICLAE** é um projeto acadêmico de extensão desenvolvido utilizando a linguagem **React.js** com o objetivo de promover a conscientização sobre reciclagem e sustentabilidade. Este projeto está alinhado aos Objetivos de Desenvolvimento Sustentável (ODS) propostos pela Organização das Nações Unidas (ONU), abordando questões como consumo responsável, proteção ambiental e energia sustentável.
 
 # *Descrição
@@ -10,7 +10,7 @@ Além disso, o site oferece um design intuitivo, promovendo uma experiência int
 
 ---
 
-# *Tecnologias Utilizadas
+# Tecnologias Utilizadas
 - **Linguagem:** React.js (Framework JavaScript para interfaces de usuário).
 - **Ferramentas de Build:** Vite.
 - **Estilização:** CSS puro.
@@ -18,7 +18,7 @@ Além disso, o site oferece um design intuitivo, promovendo uma experiência int
 
 ---
 
-# *ODS Atendidas
+# ODS Atendidas
 O projeto está alinhado com os seguintes Objetivos de Desenvolvimento Sustentável (ODS):
 
 1. # *ODS 12 - Consumo e Produção Responsáveis**:
@@ -32,14 +32,14 @@ O projeto está alinhado com os seguintes Objetivos de Desenvolvimento Sustentá
 
 ---
 
-# *Objetivos do Projeto
+# Objetivos do Projeto
 - Sensibilizar o público sobre a importância da reciclagem para um futuro sustentável.
 - Disseminar conhecimento sobre os diferentes tipos de reciclagem e suas vantagens.
 - Contribuir para a educação ambiental de forma interativa e acessível.
 
 ---
 
-# *Como Executar o Projeto**
+# Como Executar o Projeto**
 1. Clone este repositório:
    git clone https://github.com/seu-usuario/reciclae.git
 
@@ -53,8 +53,4 @@ O projeto está alinhado com os seguintes Objetivos de Desenvolvimento Sustentá
 5. Acesse no navegador:
    http://localhost:3000
 
----
-
-# *Licença
-Este projeto é acadêmico e foi desenvolvido para fins educativos. Todos os direitos estão reservados aos autores.
 
