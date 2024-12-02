@@ -1,13 +1,12 @@
 import React, { useRef } from 'react'
-import './Testimonials.css'
+import './IA.css'
 import next_icon from '../../assets/next-icon.png'
 import back_icon from '../../assets/back-icon.png'
 import user_1 from '../../assets/user-1.png'
 import user_2 from '../../assets/user-2.png'
 import user_3 from '../../assets/user-3.png'
-import user_4 from '../../assets/user-4.png'
 
-const Testimonials = () => {
+const IA = () => {
 
     const slider = useRef();
     let tx = 0;
@@ -72,4 +71,4 @@ const slideBackward = ()=>{
   )
 }
 
-export default Testimonials
+export default IA

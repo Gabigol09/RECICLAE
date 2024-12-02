@@ -1,6 +1,6 @@
 import { useRef } from 'react';
 import './VideoPlayer.css';
-import video from 'C:/temp/edusity/src/assets/video.webm';
+import video from 'C:/temp/reciclae/src/assets/video.webm';
 
 const VideoPlayer = ({ playState, setPlayState }) => {
 

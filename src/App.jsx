@@ -2,11 +2,11 @@ import React, { useState } from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './Components/Navbar/Navbar';
 import Hero from './Components/Hero/Hero';
-import Programs from './Components/Programs/Programs';
+import Conheca from './Components/Conheca/conheca';
 import Title from './Components/Title/Title';
 import About from './Components/About/About';
-import Campus from './Components/Campus/Campus';
-import Testimonials from './Components/Testimonials/Testimonials';
+import Tipos from './Components/Tipos/Tipos';
+import IA from './Components/IA/IA';
 import Footer from './Components/Footer/Footer';
 import VideoPlayer from './Components/VideoPlayer/VideoPlayer';
 import Jogo from './Components/Jogo/Jogo'; 
@@ -30,11 +30,11 @@ const App = () => {
               <div className="container">
                 <About setPlayState={setPlayState} />
                 <Title subTitle="Noticias" title="As Principais Noticias Sobre Reciclagem" />
-                <Testimonials />
+                <IA />
                 <Title subTitle="Inteligencia Artifical e Reciclagem" title="Como Seria o Mundo Sem Reciclagem Segundo a I.A" />
-                <Campus />
+                <Tipos />
                 <Title subTitle="conheça" title="TIPOS DE RECICLAGEM" />
-                <Programs />
+                <Conheca />
                 <Footer />
               </div>
               <VideoPlayer playState={playState} setPlayState={setPlayState} />
